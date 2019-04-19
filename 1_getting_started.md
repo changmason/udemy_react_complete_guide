@@ -34,5 +34,9 @@ My work: https://codepen.io/changmason/pen/YMLWBe
   5. Component deep-dive
   6. Http requests (interact with API data)
   7. Routing (important for SAP)
-  8. 
+  8. Form validation
+  9. Redux
+  10. Authentication
+  11. Testing intro
+  12. Bonuses
   
