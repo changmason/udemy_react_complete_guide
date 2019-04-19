@@ -40,3 +40,13 @@ My work: https://codepen.io/changmason/pen/YMLWBe
   11. Testing intro
   12. Bonuses
   
+## 9. How to study this courses
+  - Code alone
+  - Check author's source code
+  - Use QA of Udemy
+  - Practice, practice, practice
+  
+## 10. Useful resources
+  Check https://reactjs.org/
+  
+  
